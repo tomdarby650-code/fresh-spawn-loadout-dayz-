@@ -11,6 +11,6 @@ yoy wont have the spawngearpresets bit so make sure it looks exactly like that. 
 
  "spawnGearPresetFiles": ["custom/knifeloadout.json","custom/whateverloadout.json"],
 
- needs the , inbetween or it wont work, good luck enjoy
+ needs the , inbetween or it wont work, good luck enjoy console only unless you know what your doing
 
  
