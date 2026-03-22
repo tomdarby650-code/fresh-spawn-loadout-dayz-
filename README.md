@@ -13,4 +13,6 @@ yoy wont have the spawngearpresets bit so make sure it looks exactly like that. 
 
  needs the , inbetween or it wont work, good luck enjoy console only unless you know what your doing
 
+ https://youtu.be/fONjtKoADB4?si=ZkiIxw1JxQ0s8rX5 
+ youtube link to video clip above 
  
